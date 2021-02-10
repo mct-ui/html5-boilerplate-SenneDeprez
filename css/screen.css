@@ -123,16 +123,17 @@ hr {
 }
 
 a {
-
+    color: Royalblue;
+    transition: all .1s ease-in-out;
 }
 
 a:hover,
 a:focus {
-
+    color: crimson;
 }
 
 a:visited,
 a:active {
-    
+    color: blueviolet;    
 }
 
